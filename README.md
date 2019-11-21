@@ -44,12 +44,12 @@ vacation?!
  </p>
 
 
-<article> An article could go here </article>
+<article> <h1>  </article>
 
 <blockquote> "Read my recent travel blog here: </blockquote>
 
-<a href="https://teatimewithtia.com/2019/10/06/what-to-do-in-barcelona-spain/"> The course Website </a>
-<a href="http://slashdot.org">Old school tech news </a>
+<a href="https://teatimewithtia.com/2019/10/06/what-to-do-in-barcelona-spain/"> https://teatimewithtia.com/2019/10/06/what-to-do-in-barcelona-spain/ </a>
+<a href="http://slashdot.org">Tea Time With Tia </a>
 
 
 <address> Kuwait City, Kuwait 09366 </address>
